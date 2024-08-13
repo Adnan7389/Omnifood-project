@@ -57,6 +57,8 @@
   border: none;
   background: none;
   cursor: pointer;
+
+  display: none;
 }
 .icon-mobile-nav {
   height: 4.8rem;
@@ -65,9 +67,6 @@
 }
 
 .icon-mobile-nav[name="close-outline"] {
-  display: none;
-}
-.icon-mobile-nav[name="menu-outline"] {
   display: none;
 }
 
